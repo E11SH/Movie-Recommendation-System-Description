@@ -51,7 +51,7 @@ to suggest top-rated unseen movies for each user, with evaluation using Precisio
 ---
 
 ## 📈 Evaluation & Insights  
-- Precision@5 achieved strong results on unseen recommendations.  
+- Precision at 5 achieved strong results on unseen recommendations.  
 - User-based CF performed well for dense rating profiles.  
 - Item-based CF gave better results for popular movies.  
 - SVD captured latent preferences beyond explicit ratings.  
